@@ -14,6 +14,7 @@ Author: Charles Dickens
 Release Date: January, 1994 [EBook #98]
 Posting Date: November 28, 2009
 [This file last updated: January 23, 2011]
+[Last updated: November 27, 2013]
 
 Language: English
 
@@ -6511,7 +6512,7 @@ At length, a person better informed on the merits of the case, tumbled
 against him, and from this person he learned that the funeral was the
 funeral of one Roger Cly.
 
-"Was He a spy?" asked Mr. Cruncher.
+"Was he a spy?" asked Mr. Cruncher.
 
 "Old Bailey spy," returned his informant. "Yaha! Tst! Yah! Old Bailey
 Spi--i--ies!"
@@ -6526,7 +6527,7 @@ The idea was so acceptable in the prevalent absence of any idea,
 that the crowd caught it up with eagerness, and loudly repeating the
 suggestion to have 'em out, and to pull 'em out, mobbed the two vehicles
 so closely that they came to a stop. On the crowd's opening the coach
-doors, the one mourner scuffled out of himself and was in their hands
+doors, the one mourner scuffled out by himself and was in their hands
 for a moment; but he was so alert, and made such good use of his time,
 that in another moment he was scouring away up a bye-street, after
 shedding his cloak, hat, long hatband, white pocket-handkerchief, and
@@ -6763,7 +6764,7 @@ and hopping on at his side--perhaps taking his arm--it was a pursuer to
 shun. It was an inconsistent and ubiquitous fiend too, for, while it
 was making the whole night behind him dreadful, he darted out into the
 roadway to avoid dark alleys, fearful of its coming hopping out of them
-like a dropsical boy's Kite without tail and wings. It hid in doorways
+like a dropsical boy's kite without tail and wings. It hid in doorways
 too, rubbing its horrible shoulders against doors, and drawing them up
 to its ears, as if it were laughing. It got into shadows on the road,
 and lay cunningly on its back to trip him up. All this time it was
@@ -10921,7 +10922,7 @@ collect my thoughts. An errand of generosity brought him here unknown to
 us; he was stopped at the barrier, and sent to prison."
 
 The old man uttered an irrepressible cry. Almost at the same moment, the
-beg of the great gate rang again, and a loud noise of feet and voices
+bell of the great gate rang again, and a loud noise of feet and voices
 came pouring into the courtyard.
 
 "What is that noise?" said the Doctor, turning towards the window.
@@ -11097,7 +11098,7 @@ of a high melancholy square of buildings marked deserted homes.
 To this lodging he at once removed Lucie and her child, and Miss Pross:
 giving them what comfort he could, and much more than he had himself.
 He left Jerry with them, as a figure to fill a doorway that would bear
-considerable knocking on the head, and retained to his own occupations.
+considerable knocking on the head, and returned to his own occupations.
 A disturbed and doleful mind he brought to bear upon them, and slowly
 and heavily the day lagged on with him.
 
@@ -12201,7 +12202,7 @@ to him.
 know to-morrow. You are summoned for to-morrow."
 
 Doctor Manette, whom this visitation had so turned into stone, that he
-stood with the lamp in his hand, as if be woe a statue made to hold it,
+stood with the lamp in his hand, as if he were a statue made to hold it,
 moved after these words were spoken, put the lamp down, and confronting
 the speaker, and taking him, not ungently, by the loose front of his red
 woollen shirt, said:
